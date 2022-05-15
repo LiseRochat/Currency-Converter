@@ -19,7 +19,7 @@
 ***
 
 ### General Info
-Realization of a complete application to A little application to convert number in an other currency in Python with PySide2
+Realization of a complete application to convert number in an other currency in Python with PySide2
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
